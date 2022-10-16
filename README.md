@@ -1,6 +1,6 @@
 # How to use Git Bash (Simplified for you):
 
-### How to check your Git configuration:
+## How to check your Git configuration:
 #### The command below returns a list of information about your git configuration including user name and email:
 ## git config -1
 
