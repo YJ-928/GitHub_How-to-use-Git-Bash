@@ -17,7 +17,7 @@
 ## git config --global credential.helper cache
 
 ## How to initialize a Git repo:
-####Everything starts from here. The first step is to initialize a new Git repo locally in your project root. You can do so with the command below:
+#### Everything starts from here. The first step is to initialize a new Git repo locally in your project root. You can do so with the command below:
 ## git init
 
 ## How to add a file to the staging area in Git:
