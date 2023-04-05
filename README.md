@@ -2,7 +2,7 @@
 
 ## How to check your Git configuration:
 #### The command below returns a list of information about your git configuration including user name and email:
-## git config -1
+## git config -l (Small l, as in London)
 
 ## How to setup your Git username:
 #### With the command below you can configure your user name:
