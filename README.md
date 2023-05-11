@@ -1,3 +1,5 @@
+![GitBash](https://img.shields.io/badge/GIT%20BASH-How%20to%20use%20Git%20Bash-important?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)
 # How to use Git Bash (Simplified for you):
 
 ## How to check your Git configuration:
